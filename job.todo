@@ -1,0 +1,11 @@
+Todo:
+1. Preprocessing dataset sesuai dengan kebutuhan RST dan CBR
+2. Membuat sebuah fungsi/program untuk mengolah dataset yang sudah dipreprocess dengan menggunakan perhitungan RST dan CBR
+3. Dataset yang sudah di preprocess akan ditraining menggunakan program yang telah dibuat hingga menghasilkan dataset baru yang sudah diproses dengan RST dan CBR
+
+4. Persiapkan Endpoint untuk melakukan pengujian by input user.
+5. Persiapkan juga endpoint untuk revisi dataset yang sudah diproses jika diperlukan. (Fokus nanti dulu)
+6. Lakukan pengujian dengan menggunakan dataset yang sudah diproses untuk memastikan bahwa program berjalan dengan baik dan menghasilkan output yang diharapkan.
+
+Wishlist:
+1. CBR kalau bisa jangan tembak bobotnya ke 0,1.. di ambil referensi bobot dari perhitungan reduksi atribut dari RST, jadi bobotnya bisa lebih bervariasi sesuai dengan hasil perhitungan RST.
