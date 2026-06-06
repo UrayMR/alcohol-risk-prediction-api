@@ -1,0 +1,1670 @@
+[
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.61
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.83
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Banyak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 0.73
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.63
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 0.8
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Banyak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.67
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Buruk",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 0.33
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.8
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 0.14
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.38
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.56
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 0.25
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Bahaya",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 0.67
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 0.25
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Waspada",
+        "confidence": 0.33
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 0.33
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Waspada",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Waspada",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Banyak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.67
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Banyak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Banyak",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 0.5
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Banyak",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Tinggi",
+            "absences": "Sedang",
+            "failures": "Tidak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Buruk",
+            "freetime": "Tinggi",
+            "goout": "Sering"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Banyak",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Baik",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Sedang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Sedang",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Sedang",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Sedikit",
+            "famrel": "Buruk",
+            "freetime": "Rendah",
+            "goout": "Jarang"
+        },
+        "then": "Normal",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedang",
+            "failures": "Sedikit",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Bahaya",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Tidak",
+            "famrel": "Buruk",
+            "freetime": "Sedang",
+            "goout": "Sering"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    },
+    {
+        "if": {
+            "studytime": "Rendah",
+            "absences": "Sedikit",
+            "failures": "Banyak",
+            "famrel": "Sangat Baik",
+            "freetime": "Tinggi",
+            "goout": "Sedang"
+        },
+        "then": "Waspada",
+        "confidence": 1.0
+    }
+]

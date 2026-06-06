@@ -1,0 +1,26 @@
+{
+    "studytime": {
+        "min": 1.0,
+        "max": 4.0
+    },
+    "absences": {
+        "min": 0.0,
+        "max": 75.0
+    },
+    "failures": {
+        "min": 0.0,
+        "max": 3.0
+    },
+    "famrel": {
+        "min": 1.0,
+        "max": 5.0
+    },
+    "freetime": {
+        "min": 1.0,
+        "max": 5.0
+    },
+    "goout": {
+        "min": 1.0,
+        "max": 5.0
+    }
+}

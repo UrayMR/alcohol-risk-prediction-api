@@ -15,7 +15,7 @@ def load_raw_data(directory_path: str) -> pd.DataFrame:
 
 def discretize_for_rst(df: pd.DataFrame) -> pd.DataFrame:
     rst_df = pd.DataFrame()
-    
+
     # 1. Studytime (1-2: Rendah, 3: Sedang, 4: Tinggi)
     if 'studytime' in df.columns:
         rst_df['studytime'] = pd.cut(df['studytime'], bins=[0, 2, 3, 4], labels=['Rendah', 'Sedang', 'Tinggi'])
@@ -41,7 +41,7 @@ def discretize_for_rst(df: pd.DataFrame) -> pd.DataFrame:
         rst_df['goout'] = pd.cut(df['goout'], bins=[0, 2, 4, 5], labels=['Jarang', 'Sedang', 'Sering'])
         
     # Decision untuk alkohol berdasarkan DALC dan WALC
-    rst_df['decision'] = calculate_alcohol_decision(df, dalc_col='DALC', walc_col='WALC')
+    rst_df['decision'] = calculate_alcohol_decision(df, dalc_col='Dalc', walc_col='Walc')
 
     return rst_df
 

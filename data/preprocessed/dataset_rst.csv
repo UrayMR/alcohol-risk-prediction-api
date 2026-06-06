@@ -1,0 +1,396 @@
+studytime,absences,failures,famrel,freetime,goout,decision
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Banyak,Baik,Sedang,Jarang,Waspada
+Sedang,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Banyak,Sangat Baik,Tinggi,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Sedang,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Sedikit,Buruk,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Buruk,Rendah,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Banyak,Tidak,Baik,Sedang,Sering,Bahaya
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedang,Tidak,Buruk,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Sedang,Tidak,Buruk,Sedang,Sering,Waspada
+Tinggi,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Sedikit,Sangat Baik,Tinggi,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Bahaya
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Buruk,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Sangat Baik,Tinggi,Sering,Bahaya
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Tinggi,Sedikit,Tidak,Buruk,Sedang,Sedang,Bahaya
+Tinggi,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Tinggi,Sedang,Tidak,Baik,Sedang,Jarang,Waspada
+Tinggi,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Tinggi,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Waspada
+Tinggi,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Tinggi,Sedikit,Tidak,Sangat Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Banyak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedang,Tidak,Buruk,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Waspada
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Sedikit,Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Tidak,Baik,Rendah,Sedang,Bahaya
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Tinggi,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Tinggi,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Tinggi,Sedikit,Sedikit,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sering,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sering,Normal
+Rendah,Sedang,Tidak,Baik,Tinggi,Sering,Bahaya
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Banyak,Tidak,Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Tinggi,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Tinggi,Sedang,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Tinggi,Sedang,Tidak,Buruk,Sedang,Sering,Bahaya
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sering,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Tinggi,Sedang,Normal
+Sedang,Sedikit,Sedikit,Baik,Rendah,Jarang,Normal
+Rendah,Sedang,Sedikit,Baik,Rendah,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Sedikit,Sangat Baik,Rendah,Sedang,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Tinggi,Sedang,Tidak,Sangat Baik,Tinggi,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Banyak,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Tinggi,Sering,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Banyak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Tinggi,Sering,Waspada
+Sedang,Sedikit,Sedikit,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Banyak,Tidak,Baik,Rendah,Jarang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sering,Waspada
+Rendah,Sedikit,Sedikit,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Tinggi,Sedikit,Tidak,Buruk,Rendah,Jarang,Normal
+Rendah,Sedang,Sedikit,Buruk,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Banyak,Sangat Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Banyak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Banyak,Baik,Tinggi,Sering,Waspada
+Rendah,Sedikit,Banyak,Buruk,Sedang,Sering,Waspada
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Bahaya
+Sedang,Sedang,Sedikit,Baik,Rendah,Jarang,Waspada
+Rendah,Sedikit,Banyak,Baik,Tinggi,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Buruk,Rendah,Jarang,Waspada
+Rendah,Sedang,Banyak,Sangat Baik,Rendah,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Sedikit,Baik,Tinggi,Sering,Bahaya
+Rendah,Sedikit,Sedikit,Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Banyak,Sangat Baik,Sedang,Sering,Waspada
+Rendah,Banyak,Sedikit,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Rendah,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Banyak,Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Bahaya
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Waspada
+Rendah,Banyak,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Buruk,Rendah,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Bahaya
+Rendah,Sedang,Tidak,Baik,Sedang,Jarang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Bahaya
+Rendah,Banyak,Sedikit,Baik,Rendah,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sering,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Banyak,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Tinggi,Sedang,Tidak,Sangat Baik,Sedang,Sering,Normal
+Sedang,Banyak,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Banyak,Buruk,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Buruk,Sedang,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Jarang,Waspada
+Sedang,Sedang,Tidak,Baik,Sedang,Jarang,Normal
+Tinggi,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sering,Bahaya
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Banyak,Sedikit,Baik,Sedang,Sering,Waspada
+Rendah,Sedang,Sedikit,Baik,Rendah,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sering,Normal
+Sedang,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Buruk,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Bahaya
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Sedikit,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Jarang,Bahaya
+Sedang,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Tinggi,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Waspada
+Rendah,Banyak,Tidak,Baik,Sedang,Jarang,Normal
+Sedang,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Bahaya
+Rendah,Banyak,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Buruk,Rendah,Jarang,Normal
+Rendah,Sedikit,Sedikit,Sangat Baik,Tinggi,Sedang,Bahaya
+Rendah,Sedang,Tidak,Buruk,Tinggi,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Banyak,Banyak,Sangat Baik,Sedang,Sering,Bahaya
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Waspada
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sering,Waspada
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Rendah,Sering,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Waspada
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Tinggi,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Rendah,Sedang,Normal
+Tinggi,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Banyak,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Sering,Waspada
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sering,Normal
+Rendah,Sedang,Sedikit,Baik,Sedang,Sering,Waspada
+Tinggi,Sedikit,Tidak,Baik,Tinggi,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Tinggi,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Banyak,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Banyak,Tidak,Baik,Rendah,Sedang,Waspada
+Rendah,Sedang,Sedikit,Buruk,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Banyak,Tidak,Baik,Tinggi,Sedang,Waspada
+Rendah,Banyak,Sedikit,Baik,Sedang,Sedang,Waspada
+Tinggi,Sedikit,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sering,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Jarang,Waspada
+Sedang,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedang,Sedikit,Sangat Baik,Sedang,Sedang,Normal
+Tinggi,Sedang,Tidak,Baik,Rendah,Jarang,Normal
+Sedang,Sedang,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Buruk,Sedang,Sedang,Waspada
+Rendah,Sedang,Tidak,Baik,Sedang,Sering,Normal
+Tinggi,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Buruk,Sedang,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Tinggi,Sedikit,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Banyak,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Tinggi,Sedang,Normal
+Rendah,Banyak,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Tinggi,Sedang,Normal
+Rendah,Banyak,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Rendah,Sedang,Normal
+Rendah,Banyak,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Sedikit,Baik,Tinggi,Jarang,Normal
+Rendah,Banyak,Sedikit,Baik,Rendah,Jarang,Normal
+Sedang,Sedang,Sedikit,Baik,Rendah,Jarang,Normal
+Sedang,Banyak,Sedikit,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Banyak,Tidak,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Jarang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sering,Bahaya
+Rendah,Sedang,Tidak,Baik,Sedang,Sering,Bahaya
+Sedang,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Tinggi,Sedikit,Tidak,Baik,Tinggi,Sering,Waspada
+Sedang,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Tinggi,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Banyak,Tidak,Baik,Sedang,Sering,Normal
+Sedang,Sedang,Sedikit,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Waspada
+Tinggi,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Sedang,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedang,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Sedang,Sedang,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sering,Waspada
+Sedang,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Sedikit,Buruk,Tinggi,Sering,Bahaya
+Rendah,Sedang,Banyak,Sangat Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Tinggi,Sedang,Waspada
+Rendah,Sedang,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Tinggi,Sering,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Buruk,Rendah,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Sedikit,Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Buruk,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Sedang,Sedikit,Tidak,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Sedikit,Sangat Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Rendah,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Rendah,Jarang,Waspada
+Rendah,Sedikit,Sedikit,Baik,Rendah,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Waspada
+Sedang,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Tinggi,Sering,Normal
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Tidak,Baik,Sedang,Jarang,Normal
+Sedang,Sedikit,Sedikit,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Normal
+Rendah,Banyak,Tidak,Baik,Tinggi,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Baik,Sedang,Jarang,Normal
+Rendah,Sedang,Sedikit,Sangat Baik,Sedang,Sedang,Bahaya
+Sedang,Sedikit,Tidak,Sangat Baik,Sedang,Sedang,Normal
+Rendah,Sedang,Tidak,Baik,Sedang,Sedang,Normal
+Sedang,Sedikit,Sedikit,Sangat Baik,Sedang,Jarang,Normal
+Rendah,Sedikit,Tidak,Baik,Sedang,Sedang,Normal
+Rendah,Sedikit,Sedikit,Buruk,Rendah,Jarang,Normal
+Rendah,Sedang,Sedikit,Sangat Baik,Tinggi,Sedang,Bahaya
+Rendah,Sedikit,Tidak,Buruk,Sedang,Sering,Waspada
+Rendah,Sedikit,Banyak,Sangat Baik,Tinggi,Sedang,Waspada
+Rendah,Sedikit,Tidak,Baik,Sedang,Jarang,Waspada
+Rendah,Sedikit,Tidak,Baik,Rendah,Sedang,Waspada
