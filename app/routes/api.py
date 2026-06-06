@@ -1,6 +1,7 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
 from helpers import response
+from services.rst.predictor import predict_rst
 from services.cbr.retrieve import retrieve
 from services.cbr.retain import retain_new_case
 
@@ -31,6 +32,11 @@ async def root():
 async def health():
     return response.success("Healthy")
 
+@router.post("/predict-rst")
+async def predict_rst_route(request: PredictInput):
+    result = predict_rst(request.model_dump())
+    return response.success("Berhasil memprediksi RST", data=result)
+  
 @router.post("/cbr/predict")
 async def cbr_predict(input: PredictInput):
     try:
