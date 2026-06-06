@@ -1,4 +1,4 @@
-Todo:
+Main Todo:
 1. Preprocessing dataset sesuai dengan kebutuhan RST dan CBR
 2. Membuat sebuah fungsi/program untuk mengolah dataset yang sudah dipreprocess dengan menggunakan perhitungan RST dan CBR
 3. Dataset yang sudah di preprocess akan ditraining menggunakan program yang telah dibuat hingga menghasilkan dataset baru yang sudah diproses dengan RST dan CBR
@@ -9,3 +9,29 @@ Todo:
 
 Wishlist:
 1. CBR kalau bisa jangan tembak bobotnya ke 0,1.. di ambil referensi bobot dari perhitungan reduksi atribut dari RST, jadi bobotnya bisa lebih bervariasi sesuai dengan hasil perhitungan RST.
+
+Lines Todo:
+  A. Fase Offline:
+    1. Preprocessing dataset kategorikal untuk RST
+    2. Training dataset dengan menggunakan perhitungan RST untuk menghasilkan rules dan bobot atribut untuk CBR (dari perhitungan derajat ketergantungan untuk reduksi atribut)
+    3. Implementasi perhitungan RST untuk menghasilkan rules dan bobot atribut untuk CBR
+    4. Preprocessing dataset numerik untuk CBR dengan rentang (0-1)
+
+  B. Fase Online:
+    5. Membuat endpoint untuk input user
+    6. Endpoint tersebut memanggil service Rough Set
+      - RST:
+        a. Mengubah input user menjadi format kategorikal yang sesuai.
+        b. Mencocokkan input user dengan rules yang dihasilkan.
+        c. Setelah menemukan rules yang cocok, ambil nilai confidence dari rules tersebut.
+        d. Jika tidak ada rules yang cocok, gunakan nilai confidence fallback 0,0
+        e. Return nilai confidence.
+    7. Endpoint tersebut memanggil service CBR
+      - CBR:
+        a. Mengubah input user menjadi format numerik dengan rentang (0-1).
+        b. Menghitung jarak kedekatan kasus menggunakan rumus Weighted Euclidean Distance dengan membandingkan input user terhadap seluruh baris kasus di dataset_cbr.csv. Pengali jarak menggunakan bobot dari cbr_weights.json
+        c. Menyaring dan mengambil nilai kemiripan tertinggi sebagai CBR Score untuk masing-masing kelas (Normal, Waspada, Bahaya).
+        d. Return nilai CBR Score tertinggi untuk masing-masing kelas. Jika tidak ada kasus yang memiliki kemiripan, maka gunakan nilai CBR Score fallback 0,0 untuk semua kelas.
+    8. Menghitung Final Score dengan menggunakan rumus: Final Score = (Confidence RST * 0,6) + (Similarity CBR * 0,4)
+    9. Pilih label dengan Final Score tertinggi sebagai output dari sistem.
+    10. Menampilkan hasil output kepada user.

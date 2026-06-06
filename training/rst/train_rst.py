@@ -192,8 +192,13 @@ def main():
         for attr_name, attr_weight in normalized_weights.items():
             print(f" - {attr_name}: {attr_weight} (Signifikansi Asli: {weights[attr_name]})")
             
+        
+        # Pilih atribut yang nilai derajat ketergantungannya > 0.0 untuk digunakan dalam ekstraksi aturan RST
+        important_condition_cols = [attr for attr, weight in weights.items() if weight > 0.0]
+        print(f"Atrribut hasil reduksi untuk RST: {important_condition_cols}")
+
         print("\nMengekstrak Aturan keputusan (Rules)...")
-        extracted_rules = generate_rules_extraction(df, condition_cols, decision_col)
+        extracted_rules = generate_rules_extraction(df, important_condition_cols, decision_col)
         print(f"Berhasil mengekstrak {len(extracted_rules)} aturan.")
         
         # Simpan aturan ke model/rst_rules.json
