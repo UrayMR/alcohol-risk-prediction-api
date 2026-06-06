@@ -1,8 +1,6 @@
 import os
 import json
 import pandas as pd
-from training.utils.alcohol_decision import calculate_alcohol_decision
-
 
 def retain_new_case(raw_input: dict, final_decision: str, base_dir: str = None) -> bool:
     """
