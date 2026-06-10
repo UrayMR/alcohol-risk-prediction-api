@@ -84,7 +84,6 @@ def predict_rst(input_data: dict) -> dict:
     probabilities = calculate_class_probability(matched)
 
     return {
-        "status": "success",
         "region": region,
         "probabilities": probabilities,
         "discretized_input": discretized

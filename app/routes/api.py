@@ -18,23 +18,23 @@ class PredictInput(BaseModel):
 class RetainInput(PredictInput):
     final_decision: str = Field(..., description="Keputusan final (Normal / Waspada / Bahaya)")
 
-
-@router.get("/")
+@router.get("/api/")
 async def root():
     return response.success("Welcome to Alcohol Addiction Prediction API System")
 
 
-@router.get("/health")
+@router.get("/api/health")
 async def health():
     return response.success("Healthy")
 
 
-@router.post("/predict")
+@router.post("/api/predict")
 async def predict_hybrid(request: PredictInput):
     try:
         raw_input = request.model_dump()
 
-        rst_results = predict_rst(raw_input)
+        rst_outputs = predict_rst(raw_input)
+        rst_results = rst_outputs.get("probabilities", {})
         
         cbr_results = retrieve(raw_input)
 
@@ -58,7 +58,7 @@ async def predict_hybrid(request: PredictInput):
             "confidence_percentage": round(highest_score * 100, 2),
             "detail_scores": {
                 "final_scores": final_scores,
-                "rst_confidence": rst_results,
+                "rst_confidence": rst_outputs,
                 "cbr_similarity": cbr_results
             }
         }
@@ -69,7 +69,7 @@ async def predict_hybrid(request: PredictInput):
         return response.error(f"Gagal memproses prediksi: {str(e)}")
 
 
-@router.post("/cbr/retain")
+@router.post("/api/cbr/retain")
 async def cbr_retain(input: RetainInput):
     try:
         # Mengambil input fitur saja dengan membuang kolom final_decision
