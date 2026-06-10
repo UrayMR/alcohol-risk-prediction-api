@@ -69,8 +69,8 @@ async def predict_hybrid(request: PredictInput):
         return response.error(f"Gagal memproses prediksi: {str(e)}")
 
 
-@router.post("/api/cbr/retain")
-async def cbr_retain(input: RetainInput):
+@router.post("/api/retain")
+async def retain(input: RetainInput):
     try:
         # Mengambil input fitur saja dengan membuang kolom final_decision
         raw_features = input.model_dump(exclude={"final_decision"})
